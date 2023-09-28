@@ -5,7 +5,7 @@ When signing up, clients will be able to choose between the basic and VIP member
 
 # Application Description
 This application will allow clients to log their workouts, enrol in workout classes, and obtain their own personal workout plan based on their goals with the help of an API.
-Moreover, instructors will be able to create, and remove workout classes that clients are able to enrol in
+Moreover, instructors will be able to create and remove workout classes that clients are able to enrol in.
 
 When creating a workout class, the instructor will specify the type of workout, intensity, length of time, and equipment required.
 Clients who attend a class will be able to rate the workout class and give feedback.
