@@ -17,6 +17,7 @@ Additionally, the app will track users' fitness progress, offer personalized wor
 https://api-ninjas.com/api/exercises
 # API Tool (Hoppscotch)
 We used Hoppscotch to get 10 exercises based on the muscle we entered in the query parameters.
+
 We can enter different muscle groups to get different kinds of exercises.
 
 ![image](https://github.com/thomassems/week3project/assets/107775036/e35ebda9-0c2c-4492-95c5-e612db264b7b)
