@@ -21,3 +21,9 @@ We used Hoppscotch to get 10 exercises based on the muscle we entered in the que
 We can enter different muscle groups to get different kinds of exercises.
 
 ![image](https://github.com/thomassems/week3project/assets/107775036/e35ebda9-0c2c-4492-95c5-e612db264b7b)
+
+# Code Output (Added after grading October 7th).
+
+<img width="1470" alt="Screenshot 2023-10-06 at 5 09 34 PM" src="https://github.com/thomassems/week3project/assets/107451261/62e5a62e-b7bd-4f44-b17e-b02a890dc406">
+
+No bugs were encountered.
